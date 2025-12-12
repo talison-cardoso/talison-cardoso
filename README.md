@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 
-|![](https://github-readme-stats.vercel.app/api?username=talison-cardoso&theme=nord&hide_border=true&include_all_commits=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=talison-cardoso&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)|
+|![](https://github-readme-stats-eight-theta.vercel.app/api?username=talison-cardoso&show_icons=true&theme=nord&include_all_commits=true&count_private=true)|![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talison-cardoso&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)|
 |----|----|
 
 <!--![](https://nirzak-streak-stats.vercel.app/?user=talison-cardoso&theme=nord&hide_border=true)<br/> -->
